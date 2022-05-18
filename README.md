@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Porcheee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Portia
+- 👀 I’m interested in discovering new things
+- 🌱 I’m currently learning as a Criminologist
+- 💞️ I’m looking to collaborate on someone who has a good humor
+- 📫 How to reach me, just dm me.
 
 <!---
 Porcheee/Porcheee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
